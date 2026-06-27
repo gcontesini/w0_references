@@ -1,0 +1,15 @@
+[submodule "x5_reference_PandasCody_Baldwin"]
+	path = x5_reference_PandasCody_Baldwin
+	url = https://github.com/gcontesini/x5_reference_PandasCody_Baldwin.git
+[submodule "x1_reference_-_bash-course_from-ysap"]
+	path = x1_reference_-_bash-course_from-ysap
+	url = https://github.com/gcontesini/x1_reference_-_bash-course_from-ysap.git
+[submodule "x3_github-action-local-unittest_tool_act_from-nektos"]
+	path = x3_github-action-local-unittest_tool_act_from-nektos
+	url = https://github.com/gcontesini/x3_github-action-local-unittest_tool_act_from-nektos.git
+[submodule "x4_reference_-_github-actions-course_from-sidpalas"]
+	path = x4_reference_-_github-actions-course_from-sidpalas
+	url = https://github.com/gcontesini/x4_reference_-_github-actions-course_from-sidpalas.git
+[submodule "w0_REFERENCE_Handbook-of-Small-Data-Sets"]
+	path = w0_REFERENCE_Handbook-of-Small-Data-Sets
+	url = https://github.com/gcontesini/w0_REFERENCE_Handbook-of-Small-Data-Sets
